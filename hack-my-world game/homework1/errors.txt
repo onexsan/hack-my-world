@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 199: end of line expected.
+    jump end if pteetsa_complete = True and ruca_complete = True else jump aftertalk
+             ^
+
+File "game/script.rpy", line 257: end of line expected.
+    jump end if pteetsa_complete = True and ruca_complete = True else jump aftertalk
+             ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Thu Oct  7 22:15:35 2021
