@@ -255,8 +255,8 @@ label end:
     v "Ребята! Мне новая заметка пришла!"
     hide weeka
     hide iana
-    "Лишённое движения // неуклюжее железное тело // прячет подарок // в седой траве. // Ищи его в точке // 59.86892, 30.29979."
-    v "(про себя) {i}59.86892, 30.29979{/i}... Надо бы записать..."
+    "Покинь же свой дом. // Пустое железное тело // замерло над водою // не в силах пошевелиться. // У его ног // ищи свой подарок."
+    "{i}a note from a friend: if you don't find anything or just don't want to look too suspicious, just send a screenshot of your current location to barzha.brusnika@gmail.com{/i}"
     show weeka at left
     show iana at right
     i "Хм..."
