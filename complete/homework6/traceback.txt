@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 131, in script
+    if password == "МЕЧ":
+  File "game/script.rpy", line 131, in <module>
+    if password == "МЕЧ":
+NameError: name 'password' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 131, in script
+    if password == "МЕЧ":
+  File "renpy/ast.py", line 1893, in execute
+    if renpy.python.py_eval(condition):
+  File "renpy/python.py", line 2266, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "renpy/python.py", line 2259, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 131, in <module>
+    if password == "МЕЧ":
+NameError: name 'password' is not defined
+
+Windows-10-10.0.19041
+Ren'Py 7.4.8.1895
+homework6 1.0
+Wed Oct 13 01:47:37 2021
